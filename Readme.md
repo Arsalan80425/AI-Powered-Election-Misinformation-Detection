@@ -70,6 +70,18 @@ The **AI-Powered Election Misinformation Detection Dashboard** is a comprehensiv
 
 ## 🎬 Demo
 
+---
+
+## 🖼️ Dashboard Preview
+
+![Dashboard Preview 1](https://raw.githubusercontent.com/Arsalan80425/AI-Powered-Election-Misinformation-Detection/refs/heads/master/Dashboard%20Preview/Preview1.png)
+![Dashboard Preview 2](https://raw.githubusercontent.com/Arsalan80425/AI-Powered-Election-Misinformation-Detection/refs/heads/master/Dashboard%20Preview/Preview2.png)
+![Dashboard Preview 3](https://raw.githubusercontent.com/Arsalan80425/AI-Powered-Election-Misinformation-Detection/refs/heads/master/Dashboard%20Preview/Preview3.png)
+![Dashboard Preview 4](https://raw.githubusercontent.com/Arsalan80425/AI-Powered-Election-Misinformation-Detection/refs/heads/master/Dashboard%20Preview/Preview4.png)
+![Dashboard Preview 5](https://raw.githubusercontent.com/Arsalan80425/AI-Powered-Election-Misinformation-Detection/refs/heads/master/Dashboard%20Preview/Preview5.png)
+
+---
+
 ### Dashboard Overview
 ```
 🗳️ AI-Powered Election Misinformation Detection
@@ -100,8 +112,8 @@ pip package manager
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/election-integrity-dashboard.git
-cd election-integrity-dashboard
+git clone https://github.com/Arsalan80425/AI-Powered-Election-Misinformation-Detection.git
+cd AI-Powered-Election-Misinformation-Detection
 
 # Create virtual environment
 python -m venv venv
@@ -332,17 +344,10 @@ flake8 dash.py
 
 ---
 
-## 📞 Support & Contact
-
-### Getting Help
-- **Issues**: [GitHub Issues](https://github.com/yourusername/election-integrity-dashboard/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/election-integrity-dashboard/discussions)
-- **Documentation**: [Wiki](https://github.com/yourusername/election-integrity-dashboard/wiki)
-
 ### Contact Information
 - **Developer**: Mohammed Arsalan
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile]
+- **Email**: arsalanshaikh0408@gmail.com
+- **LinkedIn**: [[Your LinkedIn Profile](http://www.linkedin.com/in/mohammed-arsalan-58543a305)]
 - **Project**: Democratic Integrity Initiative
 
 ---
@@ -382,6 +387,6 @@ copies or substantial portions of the Software.
 
 **⭐ If this project helped you, please give it a star! ⭐**
 
-Made with ❤️ for democracy and transparency
+Made with ❤️ for democracy and transparency by Mohammed Arsalan
 
 </div>
