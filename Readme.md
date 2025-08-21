@@ -347,7 +347,7 @@ flake8 dash.py
 ### Contact Information
 - **Developer**: Mohammed Arsalan
 - **Email**: arsalanshaikh0408@gmail.com
-- **LinkedIn**: [[Your LinkedIn Profile](http://www.linkedin.com/in/mohammed-arsalan-58543a305)]
+- **LinkedIn**: [[LinkedIn Profile](http://www.linkedin.com/in/mohammed-arsalan-58543a305)]
 - **Project**: Democratic Integrity Initiative
 
 ---
