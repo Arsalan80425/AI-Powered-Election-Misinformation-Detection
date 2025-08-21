@@ -1,0 +1,7 @@
+.vscode
+venv
+__pycache__
+*.pyc
+ds.py
+dashboard1.py
+dashboard2.py
