@@ -327,7 +327,7 @@ flake8 dash.py
 
 ## 📊 Performance Metrics
 
-- **Processing Speed**: 800+ articles analyzed in <2 seconds
+- **Processing Speed**: 800+ articles analyzed in 1 minute
 - **Accuracy**: 85%+ bias detection accuracy in testing
 - **Scalability**: Handles datasets up to 10,000+ articles
 - **Response Time**: <1s for most dashboard interactions
