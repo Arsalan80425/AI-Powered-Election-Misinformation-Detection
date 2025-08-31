@@ -17,6 +17,11 @@
 
 ---
 
+## 🎬 Demo
+
+Visit the live demo at : https://arsalan80425-ai-powered-election-misinformatio-dashboard-iahckv.streamlit.app
+---
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
@@ -65,10 +70,6 @@ The **AI-Powered Election Misinformation Detection Dashboard** is a comprehensiv
 - **Caching System**: Optimized performance with smart data caching
 - **Modular Architecture**: Extensible and maintainable codebase
 - **Error Handling**: Robust fallback systems for reliability
-
----
-
-## 🎬 Demo
 
 ---
 
